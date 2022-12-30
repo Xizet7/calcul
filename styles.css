@@ -1,0 +1,47 @@
+.calc{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    width:500px;
+    margin-left:500px;
+}
+.first{
+    width: 130px;
+    height:130px;
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sign{
+    width:25px;
+    height:25px;
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+}
+.second{
+    width:130px;
+    height:130px;
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.answer{
+    width: 130px;
+    height:130px;
+    background-color: lavender;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input {
+    background: transparent;
+    border: 0 none;
+    font-size: 20px;
+    width:100px;
+}
